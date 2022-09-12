@@ -1,8 +1,8 @@
 <template>
 	<img
-		:src="basePath + 'n8n-logo.svg'"
+		:src="basePath + 'silva-logo.svg'"
 		:class="$style.img"
-		alt="n8n.io"
+		alt="silva"
 	/>
 </template>
 
